@@ -1,11 +1,7 @@
 # BibliothequeEST
-Name: AMINE ELMKADMI
-Projet de gestion d'une bibliothèque universitaire.
 
-Établissement : EST Laâyoune
+Modèle UML de la bibliothèque universitaire.
 
-Filière : Science des Données et Intelligence Artificielle (SDIA)
-
-Objectif : Gérer les livres, les étudiants, les emprunts et les retours.
-
-Outil de modélisation : StarUML.
+**Module :** Conception UML  
+**Formation :** DUT S3 SDIA  
+**Étudiant :** AMINE ELMKADMI
